@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    precacher (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (3.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest (~> 3.0)
+  precacher!
+
+BUNDLED WITH
+   1.12.5
